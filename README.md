@@ -25,11 +25,18 @@ In this lab, I captured and analyzed traffic using a sniffer. The sniffer used i
 
 ## Steps
 
-*Step 1: open Wireshark*
+## *Step 1: open Wireshark*
 
 <img width="298" alt="Screenshot 2024-05-07 at 3 07 22 PM" src="https://github.com/MiguelFloresA/test-lab/assets/169204701/41aec46a-a35d-481b-a096-0e26efb46969">
 
-*Step 2: Start inital scan*
+## *Step 2: Start inital scan*
 
 <img width="296" alt="Screenshot 2024-05-07 at 3 08 25 PM" src="https://github.com/MiguelFloresA/test-lab/assets/169204701/9030db90-7e36-4e99-8014-f20005173462">
+
+## * Step 3: Analyzing the Traffic
+
+<img width="660" alt="Screenshot 2024-05-07 at 3 36 20 PM" src="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/assets/169204701/dd66521e-022c-492d-aeef-45fde87fd2c7">
+
+
+
 
